@@ -36,22 +36,52 @@ html,body{
     color: white;
 }
 #about{
-    height: 60%;
+    height: 80%;
     width: 96%;
     background-color: blueviolet;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-top: 20px;
-    margin-bottom:20px ;
+    margin: 20px 30px;
     border-radius:1%;
     background-color:white
 }
-
-.elem{
+.elem1{
     font-size: 15px;
     padding:40px;
-    line-height:50px;
-    border-bottom: 3px solid rgb(236, 234, 234);
+
+}
+#fakeimg{
+    height: 400px;
+    width: 100%;
+    background-color:rgb(122, 109, 109);
+    background-image: url(https://images.news18.com/ibnlive/uploads/2022/04/maharashtrian-foods-165131536516x9.jpg);
+    background-size: cover;
+    background-position: 0% 60%;
+
+}
+.elem2{
+    font-size: 15px;
+    padding:40px;
+}
+#fakeimg2{
+    height: 400px;
+    width: 100%;
+    background-color:rgb(122, 109, 109);
+    background-image: url(https://sukhis.com/app/uploads/2022/04/image3-4.jpg);
+    background-size: cover;
+    background-position: 0% 40%;
+
+}
+.elem3{
+    font-size: 15px;
+    padding:40px;
+}
+#fakeimg3{
+    height: 400px;
+    width: 100%;
+    background-color:rgb(122, 109, 109);
+    background-image: url(http://www.realbharat.org/wp-content/uploads/2015/10/sadya.jpg);
+    background-size: cover;
+    background-position: 0% 50%;
+
 }
 #contact{
     height: 15%;
